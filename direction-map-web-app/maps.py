@@ -124,13 +124,13 @@ northern_vietnam_map.locations = dict(
 )
 
 northern_city_name = dict(
-    HaNoi=(0, -10), BacNinh=(0, 10), VinhPhuc=(-20, 10),
-    PhuTho=(0, 10), ThaiNguyen=(10, 0), TuyenQuang=(-10, 10),
-    HaGiang=(0, 10), CaoBang=(0, -10), BacKan=(0, -10),
-    YenBai=(-10, 10), LaoCai=(-10, -10), SonLa=(0, 10),
-    DienBien=(0, -10), HoaBinh=(-20, -10), HaNam=(10, -10),
-    NinhBinh=(-20, -10), HungYen=(10, 0), HaiDuong=(10, -10),
-    HaiPhong=(10, -10), QuangNinh=(10, -10)
+    HaNoi=(0, -15), BacNinh=(0, 0), VinhPhuc=(-25, 15),
+    PhuTho=(-30, 10), ThaiNguyen=(0, 5), TuyenQuang=(0,0),
+    HaGiang=(-15, -10), CaoBang=(5, -10), BacKan=(5, 0),
+    YenBai=(-15, 15), LaoCai=(-15, -10), SonLa=(-10, 15),
+    DienBien=(0, 15), HoaBinh=(-25, -15), HaNam=(-40, 0),
+    NinhBinh=(0, 10), HungYen=(-50, 0), HaiDuong=(0, 0),
+    HaiPhong=(-50, 5), QuangNinh=(0, 0)
 )
 
 # Định nghĩa bản đồ miền Tây
